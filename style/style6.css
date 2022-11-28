@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+}
+img{
+	width:540px;
+	height:315px;
+}
+
+
+ul {
+	color: red;
+}
+header{
+	height: 315px;
+	width: 100%;
+	background-color: black;
+}
+nav{
+	height: 150px;
+	width: 100%;
+	background-color: #A93226 ;
+}
+section{
+	height: 315px;
+	width: 100%;
+	background-color: black;
+}
+
+aside{
+	height: 315px;
+	width: 100%;
+	background-color: black;
+}
